@@ -62,3 +62,6 @@ Install the Firefox extensions from https://extensions.gnome.org/ to easily inst
 * Hide activities button
 * Openweather
     * Add weather to panel.
+
+# Future
+One of the main things I haven't tried full-time yet is a tiling window manager to replace gnome. I've been looking into i3 but just haven't taken the plunge yet.
