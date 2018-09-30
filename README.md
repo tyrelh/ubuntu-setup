@@ -33,14 +33,16 @@ I also have the `Material Icon Theme` extension installed for the nice file icon
 # Hyper
 Install `hyper-snazzy` theme in the plugins section of `~/.hyper.js`.
 
-# ZSH Shell
+I have just recently started using `Hyper` so I have yet to customize it's functionality apart from using `ZSH` and the above theme.
+
+# ZSH
 ## OhMyZSH
 * TODO
 ## Powerline
 * TODO
 * Powerline font
 
-# Gnome Shell
+# Gnome
 Install `Gnome Tweaks` from Software Center. 
 ## Themes
 * `X-Arc-Shadow` (applications)
