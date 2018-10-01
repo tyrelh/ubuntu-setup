@@ -31,11 +31,14 @@ In the version I have as of writing this, `1.27.2`, add this line to `settings.j
 I also have the `Material Icon Theme` extension installed for the nice file icons in the directory listing.
 
 # Hyper
+`Hyper` is a terminal emulator written in `node.js` (I think?) that is highly customizable and extensible. [Available on their site](https://hyper.is/) for linux, windows, and mac.
+
 Install `hyper-snazzy` theme in the plugins section of `~/.hyper.js`.
 
 I have just recently started using `Hyper` so I have yet to customize it's functionality apart from using `ZSH` and the above theme.
 
 # ZSH
+`ZSH` is a customizable and extensible shell replacement for the default `BASH`. I installed it following [this guide](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) from @robbyrussell .
 ## OhMyZSH
 * TODO
 ## Powerline
